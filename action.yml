@@ -1,4 +1,4 @@
-name: 'PWA to APK action'
+name: 'PWA to APK action node 18'
 description: 'Github Action for Converting your PWA to APK.'
 branding:
   icon: 'package'
